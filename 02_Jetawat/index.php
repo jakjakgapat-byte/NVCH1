@@ -35,8 +35,10 @@
 
 
         <section class="" id="section1">
-
+ 
+        <div class="div-head">
             <h1 class="section-head">หัวข้อที่ 1</h1>
+        </div>
             <h2 class="">BIKER</h2>
             <h3 class="">NVC</h3>
             <p class="">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis doloribus quae nam officiis neque non natus a laboriosam et iure. Officiis, odio voluptatibus dignissimos rem quaerat accusantium voluptatum nisi at.
