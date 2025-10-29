@@ -27,7 +27,9 @@
 
 
 
-<main class="">
+<main class="main">
+
+
 
 <section class="" id="section1">
 
@@ -57,7 +59,7 @@ Maiores iure, cumque veritatis, eos consequatur molestiae soluta exercitationem 
 
 <section class="" id="section2">
 
-<div class="div-head2">
+<div class="div-head3">
     <h1 class="section-head">หัวข้อที่ 3</h1>
 </div>
 
