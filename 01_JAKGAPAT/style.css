@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.div-head {
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    width: 100%;
+    height: 150px;
+    background-color:rgb(42, 165, 73);
+}
+
+.section-head {
+    color: rgb(110, 110, 110);
+}
+
+.section-head2 {
+    color: rgb(42, 165, 97);
+}
